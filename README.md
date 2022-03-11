@@ -1,5 +1,5 @@
 # IntroductionToArtificialIntelligence
- Coursework associated with intro to AI course at Harvard during Fall 2021
+ Coursework associated with intro to AI course at Harvard during Fall 2021 CSCI E-80
 
 ## Contents
 ### Module 0: Search
