@@ -1,5 +1,5 @@
 # IntroductionToArtificialIntelligence
- Coursework associated with into to AI course at Harvard during Fall 2021
+ Coursework associated with intro to AI course at Harvard during Fall 2021
 
 ## Contents
 ### Module 0: Search
